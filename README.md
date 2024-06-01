@@ -38,4 +38,4 @@ Also some of my own conclusions and hypotheses:
 - Many of syntax elements are just visual noise that slows down reading. If you already are using ESLint, you don't have to visually check for syntax errors. Therefore stuff like closing brackets can often be grouped together without any spacing.
 
 
-_I have tried **some** of the improvements with a live audience. The developers in the audience were a few times faster at spotting bugs in the improved code. Sadly I didn't save the video of my presentation and now it's gone._
+_I have tried **some** of the improvements (NN/g related ones) with a live audience. The developers in the audience were a few **times** faster at spotting bugs in the improved code. Sadly I didn't save the video of my presentation and now it's gone._
