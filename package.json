@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-readability",
+  "version": "0.1.0",
+  "description": "ESLint configuration for better readability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilis/eslint-config-readability.git"
+  },
+  "keywords": [
+    "eslint",
+    "readability"
+  ],
+  "author": "Emilis Dambauskas <dev@emilis.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilis/eslint-config-readability/issues"
+  },
+  "homepage": "https://github.com/emilis/eslint-config-readability#readme",
+  "dependencies": {
+    "@stylistic/eslint-plugin": "^2.1.0"
+  }
+}
