@@ -4,18 +4,24 @@ This is a _stylistic_ ESLint config that aims to increase code readability.
 
 ⚠️  A work in progress.
 
-- It has strong opinions on rules where readability can be improved.
-- It avoids opinions on rules that don't impact readability.
-- It opens the freedom for a code writer to improve readability beyond what a strict ruleset would demand.
+##  Goals
+
+- Increase code readability based on consistent research findings.
+
+### Non-goals
+
+- Break style familiarity without strong reasons.
+- Force opinions on every style detail.
+- Prevent code writers from improving readability beyond what a lint ruleset can offer.
 
 ## Motivation
 
-It is based on a few researched findings:
+It is based on a few well researched findings:
 
 - 2 vs 4 spaces doesn't actually matter.
 - A familiar code style can have bigger impact than most style improvements.
 - People don't read online [they scan](https://www.nngroup.com/articles/how-people-read-online/):
-    - (sub)headings work,
+    - headings work,
     - highlighted keywords are important,
     - lists work better than long lines of text,
     - shorter text is better,
