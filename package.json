@@ -22,5 +22,8 @@
   "homepage": "https://github.com/emilis/eslint-config-readability#readme",
   "dependencies": {
     "@stylistic/eslint-plugin": "^2.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 9"
   }
 }
